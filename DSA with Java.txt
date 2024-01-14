@@ -1,0 +1,35 @@
+DSA with Java
+
+Analysis of algorithms
+ * Asymptotic Analysis
+ * Order of Growth
+ * Best avg and worst case
+ * Asymptotic Notation
+ * Big O notation
+ * Omega Notation
+ * Theta Notation
+ * Loops
+ * Recursion
+ * Recursion Tree method for solving Recurrences
+ * Upper bounds using recursion methods
+ * Space Complexity
+
+* Arrays
+* Sorting
+* Searching
+* Matrix
+* Hashing
+* Strings 
+* Linked Lists
+* Stack
+* Queue
+* Deque
+* tree
+* Binary Search Tree
+* Heap
+* Graph
+* Greedy
+* Back Tracking
+* Dynamic Programming
+* trie
+* Segment and Binary indexed Trees
